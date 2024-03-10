@@ -1,14 +1,17 @@
 # doc wing
 
 
+
 ## introduction
 
 - a presentation with more information aand a video explaining the project in depth along with all details  can be found here, please visit
 https://www.canva.com/design/DAF_GmpX_5g/-hHXRvRyF3zEvMimK5r_hA/view?utm_content=DAF_GmpX_5g&utm_campaign=designshare&utm_medium=link&utm_source=editor
+try it out on telegram:@doc_wing_bot
+(its running locally so if it doesnt respond means pc off or in few minutes )
 
 ## use cases
 - can be used by patient to speed up their proccesses
-- can benifit healthcare providers
+- can binifit healthcare providers
 
 ## healthily
 the healthily api can be quickly integrated to use this system,
